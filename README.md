@@ -1,5 +1,5 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+  ### Hello World!
+  <code><img height="80" src="https://media1.giphy.com/media/JpA4Igb7UHWhxphHGY/giphy.gif?cid=790b7611d63402da89fabcfbf899ed65a670cb95c5cd7b0c&rid=giphy.gif"></code>
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
