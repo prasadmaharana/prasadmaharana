@@ -5,7 +5,7 @@
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I’m currently working as a BI Analyst in Mumbai
-  - 🌱 I’m currently learning Machine Learning and AI. 
+  - 🌱 I like exploring SOTA machine learning models
   - 💬 Ask me about space talks, time travel and James Bond.
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: The blob of toothpaste that sits on your toothbrush is called a "nurdle"
